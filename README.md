@@ -1,7 +1,6 @@
-> [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/roddyfred)
 
 # Use Node.Js 18 or 20
-
+## [REGISTER MEMEFI BOT HERE](https://t.me/memefi_coin_bot/main?startapp=r_7f12465997)
 ## Functionality
 
 | Functional                                                     | Supported |
